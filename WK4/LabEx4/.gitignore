@@ -1,0 +1,72 @@
+# Xcode
+DerivedData/
+build/
+
+*.xcworkspace
+
+!*.xcworkspace/contents.xcworkspacedata
+
+*.xcuserstate
+
+xcuserdata/
+
+​
+
+# SwiftPM
+
+.build/
+Package.resolved
+​
+
+# CocoaPods
+
+Pods/
+
+​
+
+# Carthage
+Carthage/Build/
+
+​
+
+# Fastlane
+
+fastlane/report.xml
+
+fastlane/Preview.html
+
+fastlane/screenshots
+
+fastlane/test_output
+​
+
+# Archives
+
+*.xcarchive
+
+​
+
+# Logs
+
+*.log
+
+​
+
+# macOS
+
+.DS_Store
+
+​
+
+# Playgrounds
+
+timeline.xctimeline
+
+playground.xcworkspace
+
+
+
+
+
+
+
